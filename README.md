@@ -2,7 +2,7 @@
 Smlock is a minimal screen locker for mobile.  
 Fork of Benruijl sflock - github.com/benruijl/sflock
 ## Install
-REQUIRE xlib.  
+REQUIRES xlib.  
 On Arch:  
 `sudo pacman -S base-devel xlib11`  
 On Debian, Ubuntu:  
