@@ -1,7 +1,7 @@
 # smlock
-Smlock is a minimal screen locker optimized for mobile.  
+Smlock is a minimal screen locker, for Xorg, optimized for mobile.  
 Fork of Benruijl sflock - github.com/benruijl/sflock  
-It shows a clock, that will update at key press.
+It shows a clock, that will update at key press.  
 ## Install
 REQUIRES xlib.  
 On Arch:  
