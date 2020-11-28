@@ -1,6 +1,6 @@
 # smlock
 Smlock is a minimal screen locker optimized for mobile.  
-Fork of Benruijl sflock - github.com/benruijl/sflock
+Fork of Benruijl sflock - github.com/benruijl/sflock  
 It shows a clock, that will update at key press.
 ## Install
 REQUIRES xlib.  
