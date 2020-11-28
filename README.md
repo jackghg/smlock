@@ -1,6 +1,7 @@
 # smlock
-Smlock is a minimal screen locker for mobile.  
+Smlock is a minimal screen locker optimized for mobile.  
 Fork of Benruijl sflock - github.com/benruijl/sflock
+It shows a clock, that will update at key press.
 ## Install
 REQUIRES xlib.  
 On Arch:  
@@ -18,3 +19,5 @@ Build and install:
 \-e   a command to be executed at the end  
 \-h   hide user name or messagge  
 \-?   help  
+Example:  
+`smlock -i onboard -h`  
